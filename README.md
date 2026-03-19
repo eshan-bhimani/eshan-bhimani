@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- I'm a 2nd-year CS student at University of Georiga. I am a Full-Stack Developer with many interests within software development, AI, and ML. 
+- I'm a 2nd-year CS student at Georgia Tech. I am a Full-Stack Developer with many interests within software development, AI, and ML. 
 
 - Email: bhimanieshan@gmail.com
 - LinkedIn: www.linkedin.com/in/eshan-bhimani
